@@ -1,4 +1,3 @@
-Here is the refactored version using echo and #:
 SE_Day1
 Part 1: Introduction to Software Engineering
 1. Define Software Engineering and its Importance
